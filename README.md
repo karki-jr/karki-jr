@@ -1,7 +1,6 @@
 # **Yukesh Karki**
 
-## *Postgraduate student at the University of Birmingham*
----
+### Postgraduate student at the University of Birmingham
 
 Hi, My name is Yukesh Karki. I completed my Bachelor's degree in Aerospace engineering from IOE Pulchowk, Tribhuvan Univeristy, Nepal. I am driven by deep curiosity abouth how flight works and how air interacts with moving objects, which has shaped my interest in study the aerodynamic challenges.
 
