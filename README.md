@@ -2,9 +2,7 @@
 
 ### PhD student at the University of Birmingham
 
-Hi, My name is Yukesh Karki. I completed my Bachelor's degree in Aerospace engineering from IOE Pulchowk, Tribhuvan Univeristy, Nepal. I am driven by deep curiosity about how flight works and how air interacts with moving objects, which has shaped my interest to study aerodynamic challenges.
-
-My research focuses on aerodynamics and fluid-structure interaction problems, specially in low Reynolds number flows and flexible wings.
+Hi, My name is Yukesh Karki. I completed my Bachelor's degree in Aerospace engineering from IOE Pulchowk, Tribhuvan Univeristy, Nepal. I am currently a PhD student at the University of Birmingham. My research focuses on the unsteady aero/hydrodyanmics of different bio-propulsion systems like flapping wings in air and jet propulsion in water.
 
 🌐 [yukeshkarki.com.np](https://yukeshkarki.com.np/)
 
